@@ -55,12 +55,17 @@ Projeto criado para praticar Programação Orientada a Objetos, Java e Banco de 
 ---
 
 ## 📊 Estatísticas GitHub
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuri-gb&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-gb&layout=compact&theme=dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri-gb&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-gb&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=Yuri-gb&theme=dark" />
 </p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=Yuri-gb\&color=blue)
+
